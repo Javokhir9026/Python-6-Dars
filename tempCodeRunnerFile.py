@@ -1,0 +1,2 @@
+
+print(m.fsum(ls))
